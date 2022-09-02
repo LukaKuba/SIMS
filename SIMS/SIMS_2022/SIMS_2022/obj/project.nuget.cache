@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J19EayHQlfq1NyJMPKzBQtHat+QK0RjTwxrEMp1Q2fnrZ/FU5fA2Fph8DfFWbrqa9o81WQwCYBKq/lXMCLKYpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Luka\\SIMS\\SIMS_2022\\SIMS_2022\\SIMS_2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\ironxl.excel\\2022.8.8348\\ironxl.excel.2022.8.8348.nupkg.sha512"
+  ],
+  "logs": []
+}

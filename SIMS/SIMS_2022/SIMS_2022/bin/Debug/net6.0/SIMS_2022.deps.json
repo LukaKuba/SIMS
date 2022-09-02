@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SIMS_2022/1.0.0": {
+        "dependencies": {
+          "IronXL.Excel": "2022.8.8348"
+        },
+        "runtime": {
+          "SIMS_2022.dll": {}
+        }
+      },
+      "IronXL.Excel/2022.8.8348": {
+        "runtime": {
+          "lib/netstandard2.0/IronXL.dll": {
+            "assemblyVersion": "2022.8.0.8348",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SIMS_2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IronXL.Excel/2022.8.8348": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gMIoEvsJPBHEBrg0py5LreAt03lbr+8ibP5LINhhKOmVWQGIYqjE3n1luKTlVCF2PUeNpyjHQ/dMr93fXq33IQ==",
+      "path": "ironxl.excel/2022.8.8348",
+      "hashPath": "ironxl.excel.2022.8.8348.nupkg.sha512"
+    }
+  }
+}
